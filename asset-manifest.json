@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quartierindex/static/css/main.9d365332.css",
-    "main.js": "/quartierindex/static/js/main.5cc7a485.js",
+    "main.js": "/quartierindex/static/js/main.bd96ef47.js",
     "static/media/welcome.jpg": "/quartierindex/static/media/welcome.9b969e34a6add4cba0ab.jpg",
     "index.html": "/quartierindex/index.html",
     "main.9d365332.css.map": "/quartierindex/static/css/main.9d365332.css.map",
-    "main.5cc7a485.js.map": "/quartierindex/static/js/main.5cc7a485.js.map"
+    "main.bd96ef47.js.map": "/quartierindex/static/js/main.bd96ef47.js.map"
   },
   "entrypoints": [
     "static/css/main.9d365332.css",
-    "static/js/main.5cc7a485.js"
+    "static/js/main.bd96ef47.js"
   ]
 }
