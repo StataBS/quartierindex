@@ -9,7 +9,7 @@ const _ = require('lodash');
 INPUT
 ###############################
 */
-const QUARTIERINDEX_2023 = path.join(__dirname, '../data/quartierindex_2023.csv')
+const QUARTIERINDEX_2024 = path.join(__dirname, '../data/quartierindex_2024.csv')
 const INDIKATOREN_TEXTE = path.join(__dirname, '../data/indikatoren_texte.tsv')
 
 /*
@@ -47,7 +47,7 @@ function check(error, name) {
  ###############################
  */
 // const data = fs.readFileSync(path.join(__dirname, '../data/spiderranks_2018.csv'), { encoding : 'utf8'});
-const data = fs.readFileSync(QUARTIERINDEX_2023, { encoding : 'utf8'});
+const data = fs.readFileSync(QUARTIERINDEX_2024, { encoding : 'utf8'});
 
 const options = {
   delimiter : ',',
